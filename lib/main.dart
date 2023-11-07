@@ -24,6 +24,7 @@ Future<void> main() async {
               appId: "1:845517105141:web:57e69fe8320397be6962bc")
           : null);
   await Jiffy.setLocale('fr');
+
   runApp(const MyApp());
 }
 
