@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "166030816604",
-    "project_id": "flutter-simplon",
-    "storage_bucket": "flutter-simplon.appspot.com"
+    "project_number": "845517105141",
+    "project_id": "flutterchat-d8f69",
+    "storage_bucket": "flutterchat-d8f69.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:166030816604:android:95b11cdec5c76cbd1efd99",
+        "mobilesdk_app_id": "1:845517105141:android:503580b2864bc5716962bc",
         "android_client_info": {
-          "package_name": "fr.onlywin.fluttersimplon"
+          "package_name": "fr.avnk.flutterChat"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA-xRcDBAFQeIA9szNkdedGaiRmyluPD24"
+          "current_key": "AIzaSyAOSwZZ8E7BWr4wPIyuB2-VoB26UQ19OC8"
         }
       ],
       "services": {
